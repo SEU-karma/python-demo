@@ -1,2 +1,2 @@
 # python-demo
-a share repository for new pythoner
+a demo share repository for new pythoner

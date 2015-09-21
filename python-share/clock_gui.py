@@ -1,5 +1,15 @@
+# All Rights Reserved, Copyright (c) FUJITSU LIMITED 2015
+# Author: luzhiyuan
+# a simple python gui timer using MVC
+# Created on: 2015/08/08
+
+"""
+use observer design pattern
+use python gui lib TK
+"""
+
 # import tkMessageBox
-# tkMessageBox.showinfo( "Hello Python", "Hello World")
+# tkMessageBox.showinfo("Hello Python", "Hello World")
 
 import Tkinter
 import time

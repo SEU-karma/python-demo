@@ -1,5 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# All Rights Reserved, Copyright (c) FUJITSU LIMITED 2015
+# Author: luzhiyuan
+# public and private in python class
+# Created on: 2015/08/08
 
 
 class Student(object):

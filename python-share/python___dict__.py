@@ -1,3 +1,12 @@
+# All Rights Reserved, Copyright (c) FUJITSU LIMITED 2015
+# Author: luzhiyuan
+# a demo to show fields in class or instance
+# Created on: 2015/08/08
+
+"""
+two methods to show fields
+"""
+
 class Fruit(object):
 
     '''
